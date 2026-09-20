@@ -1,0 +1,201 @@
+Items: {
+	TopazPickaxe: {
+		Tooltip: ""
+		DisplayName: Topaz Pickaxe
+	}
+
+	SapphirePickaxe: {
+		Tooltip: ""
+		DisplayName: Sapphire Pickaxe
+	}
+
+	RubyPickaxe: {
+		Tooltip: ""
+		DisplayName: Ruby Pickaxe
+	}
+
+	EmeraldPickaxe: {
+		Tooltip: ""
+		DisplayName: Emerald Pickaxe
+	}
+
+	AmethystPickaxe: {
+		Tooltip: ""
+		DisplayName: Amethyst Pickaxe
+	}
+
+	DiamondPickaxe: {
+		DisplayName: Diamond Pickaxe
+		Tooltip: ""
+	}
+
+	ScoriteBar: {
+		DisplayName: Scorite Bar
+		Tooltip: ""
+	}
+
+	ScoriteOre: {
+		DisplayName: Scorite Ore
+		Tooltip: ""
+	}
+
+	ArcaniteOre: {
+		DisplayName: Arcanite Ore
+		Tooltip: ""
+	}
+
+	ScoritePickaxe: {
+		DisplayName: Scorite Pickaxe
+		Tooltip: ""
+	}
+
+	ArcaniteBar: {
+		DisplayName: Arcanite Bar
+		Tooltip: ""
+	}
+
+	ArcanitePickaxe: {
+		DisplayName: Arcanite Pickaxe
+		Tooltip: ""
+	}
+
+	WrathiumBar: {
+		DisplayName: Wrathium Bar
+		Tooltip: ""
+	}
+
+	WrathiumOre: {
+		DisplayName: Wrathium Ore
+		Tooltip: ""
+	}
+
+	EtherealiumBar: {
+		DisplayName: Etherealium Bar
+		Tooltip: ""
+	}
+
+	EtherealiumOre: {
+		DisplayName: Etherealium Ore
+		Tooltip: ""
+	}
+
+	BelligeriteBar: {
+		DisplayName: Belligerite Bar
+		Tooltip: ""
+	}
+
+	BelligeriteOre: {
+		DisplayName: Belligerite Ore
+		Tooltip: ""
+	}
+
+	ScoriteAxe: {
+		DisplayName: Scorite Axe
+		Tooltip: ""
+	}
+
+	ScoriteSword: {
+		DisplayName: Scorite Sword
+		Tooltip: ""
+	}
+
+	ScoriteHammer: {
+		DisplayName: Scorite Hammer
+		Tooltip: ""
+	}
+
+	ArcaniteAxe: {
+		DisplayName: Arcanite Axe
+		Tooltip: ""
+	}
+
+	ArcaniteHammer: {
+		DisplayName: Arcanite Hammer
+		Tooltip: ""
+	}
+
+	ArcaniteSword: {
+		DisplayName: Arcanite Sword
+		Tooltip: ""
+	}
+
+	EtherealiumPickaxe: {
+		DisplayName: Etherealium Pickaxe
+		Tooltip: ""
+	}
+
+	EtherealiumAxe: {
+		DisplayName: Etherealium Axe
+		Tooltip: ""
+	}
+
+	EtherealiumHammer: {
+		DisplayName: Etherealium Hammer
+		Tooltip: ""
+	}
+
+	EtherealiumSword: {
+		DisplayName: Etherealium Sword
+		Tooltip: ""
+	}
+
+	WrathiumPickaxe: {
+		DisplayName: Wrathium Pickaxe
+		Tooltip: ""
+	}
+
+	WrathiumAxe: {
+		DisplayName: Wrathium Axe
+		Tooltip: ""
+	}
+
+	WrathiumHammer: {
+		DisplayName: Wrathium Hammer
+		Tooltip: ""
+	}
+
+	WrathiumSword: {
+		DisplayName: Wrathium Sword
+		Tooltip: ""
+	}
+
+	BelligeriteHamAxe: {
+		DisplayName: Belligerite Ham Axe
+		Tooltip: ""
+	}
+
+	BelligeritePickaxe: {
+		DisplayName: Belligerite Pickaxe
+		Tooltip: ""
+	}
+
+	TheFinalArgument: {
+		DisplayName: The Final Argument
+		Tooltip: ""
+	}
+
+	FrostWyvernWings: {
+		DisplayName: Frost Wyvern Wings
+		Tooltip: ""
+	}
+
+	ArcaniteJetpack: {
+		DisplayName: Arcanite Jetpack
+		Tooltip: ""
+	}
+
+	DuneTotem: {
+		DisplayName: Dune Totem
+		Tooltip: ""
+	}
+}
+
+Tiles: {
+	VoidForge.MapEntry: Void Forge
+	AbyssalAnvil.MapEntry: Abyssal Anvil
+	HallowedAnvil.MapEntry: Hallowed Anvil
+	HallowedForge.MapEntry: Hallowed Forge
+}
+
+NPCs.DuneStalker.DisplayName: Dune Stalker
+Projectiles.DuneSandProjectile.DisplayName: Dune Sand Projectile
